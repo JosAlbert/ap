@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": {"url":"http://aulavirtual.continental.edu.pe", "nombre de usuario":"}",
+    "siteurl": {"url":"https://aulavirtual.continental.edu.pe/login/index.php", "nombre de usuario":"}",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
